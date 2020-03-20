@@ -1,0 +1,13 @@
+//
+//  Debug.xcconfig
+//  SampleCI
+//
+//  Created by Offspring on 3/20/20.
+//  Copyright © 2020 anonymous. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+POP_APP_NAME = SampleCI(dev)
+POP_APP_VERSION = 0.1
+POP_APP_BUNDLE_IDENTIFIER = com.pop.sampleci.debug
